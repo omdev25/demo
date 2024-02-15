@@ -1,4 +1,4 @@
-import easyocr
+import 
 
 # Load the OCR reader with the English language model
 reader = easyocr.Reader(['en'])
